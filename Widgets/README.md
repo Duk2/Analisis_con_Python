@@ -1,1 +1,1 @@
-Artículo completo en Estrategias de Trading: https://estrategiastrading.com/widgets-interactivos-en-python-ipywidgets/
+Notebooks del artículo de Estrategias de Trading: https://estrategiastrading.com/widgets-interactivos-en-python-ipywidgets/
